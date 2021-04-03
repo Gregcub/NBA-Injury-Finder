@@ -3,10 +3,12 @@ The purpose of this study is to predict injuries in NBA basketball using macro l
 
 
 Literature Review
-Find existing studies on sports injuries, fatigue, etc.
-https://pubmed.ncbi.nlm.nih.gov/26439776/
-Good article for referencing the validity of our study
-What is the Hertz in the data we have?
+
+- Find existing studies on sports injuries, fatigue, etc.
+- https://pubmed.ncbi.nlm.nih.gov/26439776/
+- Good article for referencing the validity of our study
+- What is the Hertz in the data we have?
+
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0229212#references
 This literature has tables data of Total distance, Acceleration and Deceleration including change of direction (COD), and Average and top speed of elite basketball players.
 4.2.1 Total Distance
@@ -31,6 +33,7 @@ rapid increases in load increase the risk of injury whereas chronic exposure to 
 
 Code
 Add version control
+
 Data segmentation: to generate a proper set of labeled data, we need condition positives (when injuries occur) and condition negatives (when injuries don’t occur). Condition positives are easy enough to find, but how to select good condition negatives? Can’t just select random clips from the game, because it’s too random.
 seconds preceding actual injuries, then find non-injuries that are similar
 minutes before actual injuries compared to typical profile for a player

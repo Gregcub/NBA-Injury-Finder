@@ -1,0 +1,12 @@
+Looking for features of player movements that help measure their healthiness.
+
+
+Force (weight), angle, position, velocity accel data
+- Specifically maximum velocity, average velocity
+- Any difference on offense, defense, velocity and acceleration with and without ball?
+Ball info if possible?
+- Time since shooting, passing, or receiving the ball before injury
+- Number of shots, passes, and receives
+Proximity to other players
+Meters traveled throughout the game until injury
+Ideally, would analyze coordinate data on first game back, and see at what point data normalizes

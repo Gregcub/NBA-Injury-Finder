@@ -1,0 +1,25 @@
+﻿These notebooks achieved gold in the ratings.
+Link to python notebook: https://www.kaggle.com/robikscube/nfl-1st-and-future-analytics-intro
+They used the data to:
+-Plot the path of an injured player
+-Created a plot for direction/velocity of player
+
+
+Link to python notebook:
+https://www.kaggle.com/jaseziv83/an-analysis-of-nfl-injuries
+They used the data to:
+* Plot injuries/types of injuries based on position
+* Number of injuries overall through season
+* Analyzed player tracking data:
+   * Speed increased on plays where injury occurs?
+
+
+Link to python notebook:
+https://www.kaggle.com/jpmiller/nfl-1standfuture-report
+They used data to:
+* They focused on character movement  and kinesiology showing longitudinal, speeding up or slowing down, and lateral, cutting, and turning, acceleration.
+
+
+This notebook achieved bronze but implements what we are looking for. Focusing on player movement, speed, and acceleration. 
+Link to python notebook:
+https://www.kaggle.com/bgpablo/visualization-of-player-movement-speed-accel
